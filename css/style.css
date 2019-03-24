@@ -1,0 +1,15 @@
+*{margin:0px;padding:0px;outline-style: none;}
+body{
+
+}
+
+.header{
+	color: white;
+}
+.footer{
+	background-color: black;
+	color: white;
+}
+.mainsection{
+	height: 950px;
+}
